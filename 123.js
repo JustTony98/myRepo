@@ -1,1 +1,0 @@
-const myConst = 123;
